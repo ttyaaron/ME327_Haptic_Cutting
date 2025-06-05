@@ -10,9 +10,9 @@ This repository contains all the source files, mechanical designs, and code for 
 
 | File | Description |
 |------|-------------|
-| `ME327_Haptic_Cutting_G16_2025.step` | 3D CAD model of the full haptic knife system, including motor mount, capstan pulley, and structural parts. |
+| `ME327_Haptic_Cutting_G16_2025.step` | 3D CAD model of the full haptic knife system, including motor mount, knife handle, capstan pulley, and structural parts. |
 | `haptic_cutting_vFinal.ino` | Final Arduino sketch for controlling the motor, reading encoder values, and handling user input. |
-| `hapticscutting.blend` | Blender file used for visual design and rendering of the knife and balloon-based haptic mechanism. |
+| `hapticscutting.blend` | Blender file used for rendering of the knife and ingredients in the Virtual Reality environment. |
 | `parts_list.csv` | Tabulated list of all components used in the project, including specifications and cost notes. |
 | `README.md` | This documentation file. Describes project overview, file structure, and cost breakdown. |
 

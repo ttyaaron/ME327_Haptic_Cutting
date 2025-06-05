@@ -1,0 +1,18 @@
+Component,Specification,Quantity,Unit Price (USD),Notes
+Maxon DC Motor,148877 with Encoder 110513 (Part# 199554),1,,Borrowed from lab - Used in capstan transmission
+Motor Driver,BTS7960,1,12,High current motor driver (purchased)
+Microcontroller,Hapkit board (Arduino Uno based),1,,Borrowed from lab - Used for control and sensing
+Encoder,Integrated with Maxon motor,1,,Borrowed from lab - Included with motor
+Power Supply,DC Regulated (12V 10A),1,,Borrowed from lab - Used for motor and system power
+Capstan Pulley,Custom with threaded guide and 3D printed,1,,Borrowed from lab - 3D printed part
+Fishing Line,High-strength,2 m,,Borrowed from lab - For capstan drive
+Knife Handle,3D printed,1,,Borrowed from lab - Custom design
+Base & Stand,3D printed,1,,Borrowed from lab - Support structure
+Balloon (for jamming),Latex with sand-filled or quinoa-filled,4,,Borrowed from lab - For tactile grasping
+Syringe,60 ml,1,,Borrowed from lab - To control particle jamming
+VR Headset,Meta Quest 2,1,,Borrowed from lab - For VR experience
+Push Buttons,Momentary switch,3,,Borrowed from lab - Mode selection
+Wires & Connectors,Generic jumper wires 1 set,1 set,,Borrowed from lab - For all wiring
+Breadboard,Small breadboard,2,,Borrowed from lab - Signal routing
+Screws & Fasteners,Miscellaneous 1 set,1 set,,Borrowed from lab - For mechanical assembly
+Total Cost,,,12,
